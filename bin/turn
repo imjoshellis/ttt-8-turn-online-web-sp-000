@@ -1,9 +1,6 @@
 #!/usr/bin/env ruby
-require_relative "../lib/turn.rb"
-
 
 # ask for input
-board = ["","","","","","","","",""]
 puts "Please enter 1-9:"
 # get input
 user_input = gets.strip
